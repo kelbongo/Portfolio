@@ -21,8 +21,7 @@ export default function Nav() {
           </Link>
         </nav>
         <a
-        // jangan lupa ganti bagian ini isi sama cv beneran
-          href="/resume.pdf"
+          href="/CV-Kelvin.pdf"
           className="font-display text-sm border border-border-strong rounded-md px-4 py-2 hover:bg-surface transition-colors flex items-center gap-2"
         >
           Download CV
