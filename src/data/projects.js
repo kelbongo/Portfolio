@@ -97,7 +97,7 @@ export const projects = [
     timeline: 'Semester Genap 2025/2026 | Februari-Juni 2026',
     tools: 'Figma',
     year: '2026',
-    liveUrl: '',
+    liveUrl: 'https://www.figma.com/proto/J6ypHIaNqhWlUvO1wOuxKE/Starbucks-Redesign?node-id=2548-3258&t=0RRn2qbkGJGkdyFS-1',
     repoUrl: '',
     abstract: 'Projek ini adalah projek berkelompok yang dimulai dengan user research yang aku lakukan melalui wawancara aplikasi dan review di Play Store.',
     problem:
