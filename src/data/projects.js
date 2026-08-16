@@ -9,7 +9,7 @@ export const projects = [
     timeline: 'Semester Genap 2025/2026 | Februari-Juni 2026',
     tools: 'React, React Router DOM v7, Tailwind CSS v4, Vite, UI',
     year: '2026',
-    liveUrl: 'https://eduascent.vercel.app',
+    liveUrl: 'https://edu-ascent.vercel.app/',
     repoUrl: 'https://github.com/kelbongo/EduAscent',
     abstract:
       'Ribuan program beasiswa di Indonesia yang tersebar di platform berbeda-beda membuat sulit untuk dibandingkan. Hal ini menciptakan information gap terutama bagi mahasiswa dari daerah dan keluarga berpenghasilan rendah. EduAscent mengonsolidasikan 15+ program beasiswa ke dalam satu platform dengan pencarian, filter multi-kriteria, dan panduan persiapan — dibangun dengan React dan arsitektur berbasis komponen agar data dan filter tetap konsisten di seluruh halaman.',
