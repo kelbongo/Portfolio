@@ -77,15 +77,15 @@ export default function Home() {
           {/* Achievement Card */}
           <div className="absolute left-[-20px] top-12 z-20 bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl px-5 py-4 shadow-xl">
             <p className="text-xs text-violet-300">🏆 Achievement</p>
-            <h3 className="font-semibold text-white mt-1">Study2Challenge</h3>
+            <h3 className="font-semibold text-white mt-1">Study2Challenge 2025</h3>
             <p className="text-sm text-gray-400">National Finalist</p>
           </div>
 
           {/* Education Card */}
           <div className="absolute right-[-20px] bottom-2 z-20 bg-white/5 backdrop-blur-md border border-white/10 rounded-2xl px-5 py-4 shadow-xl">
-            <p className="text-xs text-violet-300">🎓 Education</p>
-            <h3 className="font-semibold text-white mt-1">BINUS University</h3>
-            <p className="text-sm text-gray-400">Information Systems</p>
+            <p className="text-xs text-violet-300">🏆 Achievement</p>
+            <h3 className="font-semibold text-white mt-1">B-STARTION 2026</h3>
+            <p className="text-sm text-gray-400">3rd Place</p>
           </div>
 
           {/* Profile */}
