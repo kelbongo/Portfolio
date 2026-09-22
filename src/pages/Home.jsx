@@ -2,7 +2,7 @@ import { GraduationCap, Code2, BookOpen, Target, ArrowRight, Mail, Github, Linke
 import { projects } from '../data/projects'
 import ProjectCard from '../components/ProjectCard'
 import InfoCard from '../components/InfoCard'
-import profile from "../assets/profile.jpeg";
+import profile from "../assets/Profile.jpeg";
 
 export default function Home() {
   return (
